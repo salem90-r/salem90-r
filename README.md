@@ -30,5 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salem90-r&show_icons=true&locale=en" alt="salem90-r" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salem90-r&" alt="salem90-r" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salem90-r" alt="salem90-r" /></p>
 "# salem90-r" 
