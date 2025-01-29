@@ -1,8 +1,6 @@
 <img align="center" alt="coding" width="100%" src="https://img.freepik.com/free-vector/young-man-using-laptop-standing-by-window-night_107791-25477.jpg?t=st=1717023845~exp=1717027445~hmac=07ca412fc6d7721f434420598585518b7db893413279f1d22e9fe76682087d5a&w=1060">
 <h1 align="center">Hi 👋, I'm Salem Bin Saida</h1>
 <h3 align="center">👩‍💻 A passionate Back-End developer</h3>
-<img align="right" alt="coding" width="270" src="https://img.freepik.com/free-vector/flat-design-cms-illustration_23-2148825219.jpg?t=st=1717025698~exp=1717029298~hmac=bc364ad891e21590e45f00d5777f998792844994f77b305a8e52c984cf42512a&w=1060">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salem90-r&label=Profile%20views&color=0e75b6&style=flat" alt="salem90-r" /> </p>
 
 - 🔭 I’m currently working on **RESTful APIs using Laravel**
