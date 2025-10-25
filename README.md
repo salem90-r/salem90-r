@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **RESTful APIs using Laravel**
 
-- 🎯 Goal: **Full-Stack Developer**
+- 🎯 Goal: **Back-End & Full-Stack Web Developer**
 
 - 💬 Ask me about **PHP, JS, C#, SQL Server, MySQL, Vue, bootstrap and Tailwind**
 
